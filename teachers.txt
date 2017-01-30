@@ -1,0 +1,5 @@
+//Type Key: 1-Adjunct 2-Lecturer 3-Professor
+Type |FirstName     |FamilyName            |Age	|Gender	|UniversityID |Department(24 chars)    |MinimumHours |MaxHours |WagePerHour   |HoursWorking  |ResearchTopic      |TenureDuration(days) |Courses [Max 5 courses]                                        |
+1    |Carley        |Basca                 |26  |Female |29834734     |Computer Engineering    |             |20       |28.30         |18            |                   |                     |EGN4144-EGN2104-                                               |
+2    |Steven        |Travoski              |58  |Male   |67534765     |Computer Science        |40           |         |38.40         |50            |                   |                     |COP3331-COP2130-IDH3100-ARH3204-                               |
+3    |Pablo         |Brescia               |35  |Male   |95645876     |Computer Engineering    |30           |         |50.32         |42            |Agile Efficiency   |300                  |CEE5123-CEN4134-                                               |

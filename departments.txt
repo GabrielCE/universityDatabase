@@ -1,0 +1,3 @@
+DepartmentName(24 chars)|
+Computer Science        |
+Computer Engineering    |

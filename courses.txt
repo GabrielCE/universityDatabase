@@ -1,0 +1,9 @@
+CourseTitle |Department(24 chars)    |Credits |
+COP3331     |Computer Science        |3       |
+COP2130     |Computer Science        |3       |
+IDH3100     |Computer Science        |3       |
+ARH3204     |Computer Science        |3       |
+EGN4144     |Computer Engineering    |3       |
+CEE5123     |Computer Engineering    |3       |
+EGN2104     |Computer Engineering    |4       |
+CEN4134     |Computer Engineering    |2       |
