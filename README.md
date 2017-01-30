@@ -27,3 +27,6 @@ Program that acts as a university database with use of object oriented design, f
   
 ### .txt files
   .txt files used to input basic information into each object's vector(s)
+  
+### makefile
+  Simplifies compilation
