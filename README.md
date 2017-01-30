@@ -1,4 +1,4 @@
-# universityDatabase
+# University Database
 Program that acts as a university database with use of object oriented design, function polymorphism, and .txt file input.
 
 ## Included classes
